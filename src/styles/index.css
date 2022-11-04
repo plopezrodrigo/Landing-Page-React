@@ -10,3 +10,27 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#jumbocard{
+    margin-left: 100px;
+    padding-bottom: 10px;
+    padding-right: 0px;
+    height: 300px;
+}
+
+#jumbox{
+    background-color: rgb(219, 215, 215);
+    width: 2500px;
+    height: 250px;
+    margin: 0px;
+}
+
+#logo{
+    margin-left: 100px;
+}
+#menu{
+    margin-right: 100px;
+}
+#cardbox{
+    margin-right: 100px;
+    margin-left: 100px;
+}
