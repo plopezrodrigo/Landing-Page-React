@@ -2,6 +2,7 @@ import React from "react";
 
 const Navbar = () => {
 	return (
+    		<div class="container-fluid">
 		<nav className="navbar navbar-expand-lg navbar-light bg-dark" id="navbarbox">
   <div className="container-fluid">
     <a className="navbar-brand text-white" href="#" id="logo">Start Bootstrap</a>
@@ -26,6 +27,7 @@ const Navbar = () => {
     </div>
   </div>
 </nav>
+</div>
 	);
 };
 
